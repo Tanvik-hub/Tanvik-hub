@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tanvikreddy24@gmail.com**
 
-- ⚡ Fun fact **How do you comfort a JavaScript bug? You console it!**
+- ⚡ Fun fact **How do you comfort a JavaScript bug? You console it!😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
