@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Full Stack Developer And Ai Engineer from India</h3>
 
 - 🌱 I’m currently building **AI Agents to Automate Bussiness Processes Using various SDK's**
+  
+- 🧭currently Exploring **Open AI sdk,Google's ADK,MCP..Etc**
 
 - 📫 How to reach me **tanvikreddy24@gmail.com**
 
