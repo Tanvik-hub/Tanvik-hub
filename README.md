@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm K.Tanvik Reddy</h1>
-<h3 align="center">A passionate Full Stack Developer And Ai Engineer from India</h3>
+<h3 align="center">A passionate Full Stack Developer And Agentic Ai Developer from India</h3>
 
 - 🌱 I’m currently building **AI Agents to Automate Bussiness Processes Using various SDK's**
   
