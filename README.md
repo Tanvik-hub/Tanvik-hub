@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently building **AI Agents to Automate Bussiness Processes Using various SDK's**
   
-- 🧭currently Exploring **Open AI sdk,Google's ADK,MCP..Etc**
+- 🧭currently Exploring **Open AI Sdk,Google's ADK,MCP......Etc**
 
 - 📫 How to reach me **tanvikreddy24@gmail.com**
 
