@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently building **AI Agents to Automate Bussiness Processes Using various SDK's**
   
-- 🧭currently Exploring **Open AI SDK,Google's ADK,MCP......Etc**
-
+- 🧭currently Exploring **Open AI SDK,Google's ADK,MCP,RAG.....Etc**
+ 
 - 📫 How to reach me **tanvikreddy24@gmail.com**
-
-- ⚡ Fun fact **How do you comfort a JavaScript bug? You console it!😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
