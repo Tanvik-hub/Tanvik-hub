@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm K.Tanvik Reddy</h1>
 <h3 align="center">AI/ML Engineer from India</h3>
 
-- 🌱 I’m currently building **AI Agents to Automate Bussiness Processes Using various SDK's**
+- 🌱 I’m currently building **AI Agents,RAG systems,MCP to Automate Bussiness Processes Using various SDK's**
   
 - 🧭currently Exploring **Open AI SDK,Google's ADK,MCP,RAG.....Etc**
  
