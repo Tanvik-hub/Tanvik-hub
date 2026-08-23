@@ -16,6 +16,9 @@
 - ⚙️ Developing production-ready AI applications using **Python, FastAPI, and LLM SDKs**
 - 🧠 Exploring **OpenAI Agents SDK, Google ADK, MCP, RAG, and Agentic Architectures**
 
+<p align="center">
+  - Building AI systems that don't just generate answers — they take action. 🤖
+</p>
 ---
 
 ### 🛠️ Technologies & Tools
@@ -77,17 +80,6 @@
 - 🧠 **Multi-Agent Systems**
 - 🔐 **OAuth 2.1 & Secure AI Tool Access**
 - 📊 **LLM Evaluation & Observability**
-
----
-
-### 📌 Featured Projects
-
-> 🚧 Building and documenting production-oriented AI projects.
-
-- 🔎 **Adaptive Agentic RAG with MCP**
-- 🧠 **MCP-Powered Deep Research Agent**
-- 🔌 **Production MCP Servers with OAuth 2.1**
-- 🤖 **Agentic AI Business Automation Systems**
 
 ---
 
