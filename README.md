@@ -94,7 +94,35 @@
 📧 **tanvikreddy24@gmail.com**
 
 ---
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <i>Building AI systems that don't just generate answers — they take action. 🤖</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanvik-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvik-hub&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tanvik-hub&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvik-hub&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+### 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tanvik-hub&label=Profile%20Views&color=6366f1&style=flat" />
 </p>
