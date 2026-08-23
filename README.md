@@ -11,7 +11,7 @@
 ### 🚀 What I'm Working On
 
 - 🤖 Building **Agentic AI systems** for automating real-world business workflows
-- 🔎 Building **RAG systems** with vector search, retrieval, reranking, and evaluation
+- 🔎 Building **RAG systems** with vector search, retrieval, re-ranking, and evaluation
 - 🔌 Building **MCP servers and clients** for connecting LLMs with external tools and data
 - ⚙️ Developing production-ready AI applications using **Python, FastAPI, and LLM SDKs**
 - 🧠 Exploring **OpenAI Agents SDK, Google ADK, MCP, RAG, and Agentic Architectures**
@@ -92,24 +92,6 @@
 </p>
 
 📧 **tanvikreddy24@gmail.com**
-
----
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanvik-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvik-hub&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tanvik-hub&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
