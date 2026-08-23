@@ -19,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvik-hub&show_icons=true&locale=en" alt="tanvik-hub" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvik-hub&" alt="tanvik-hub" /></p>
