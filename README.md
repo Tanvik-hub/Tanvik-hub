@@ -17,9 +17,9 @@
 - 🧠 Exploring **OpenAI Agents SDK, Google ADK, MCP, RAG, and Agentic Architectures**
 
 <p align="center">
-  - Building AI systems that don't just generate answers — they take action. 🤖
+  Building AI systems that don't just generate answers — they take action. 🤖
 </p>
----
+
 
 ### 🛠️ Technologies & Tools
 
