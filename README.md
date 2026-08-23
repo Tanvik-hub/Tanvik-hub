@@ -55,17 +55,23 @@
 
 </p>
 
-### 🧠 AI / GenAI
+### 🤖 Agentic AI Stack
 
-<p align="left">
+<p align="center">
 
-<img src="https://img.shields.io/badge/Agentic%20AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6366F1?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-0066FF?style=for-the-badge" alt="MCP"/>
+<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LLM%20Applications-FF6F00?style=for-the-badge" alt="LLM Applications"/>
+<img src="https://img.shields.io/badge/LLM%20Tool%20Calling-0F766E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLM%20Evaluation-EA580C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Observability-334155?style=for-the-badge"/>
 
 </p>
 
