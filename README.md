@@ -21,57 +21,105 @@
   Building AI systems that don't just generate answers — they take action. 🤖
 </p>
 
-### 🛠️ Technologies & Tools
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 Agentic AI & LLM Systems
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-7C3AED?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/LLM%20Tool%20Calling-0F766E?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Agent%20Evaluation-EA580C?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Agent%20Observability-334155?style=for-the-badge" />
+
+</p>
+
+### 🔌 MCP & RAG
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6366F1?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/MCP%20OAuth-OAuth%202.1%20%7C%20PKCE-2563EB?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-4B0082?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Vector%20Search-Semantic%20Retrieval-9333EA?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Reranking-Retrieval%20Optimization-8B5CF6?style=for-the-badge" />
+
+</p>
+
+### 📊 AI Observability & Evaluation
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Logfire-Observability-111827?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/LangSmith-Tracing%20%26%20Evaluation-1F2937?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/LLM%20Evaluation-Agent%20%26%20RAG%20Evals-F97316?style=for-the-badge" />
+
+</p>
+
+### 🧠 Machine Learning & Deep Learning
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Algorithms%20%26%20Modeling-2563EB?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-7C3AED?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-059669?style=for-the-badge" />
+
+</p>
+
+### ⚙️ Engineering & Infrastructure
 
 <p align="left">
 
 <a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 </a>
 
 <a href="https://fastapi.tiangolo.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
 </a>
 
 <a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
 </a>
 
 <a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
 </a>
 
-<a href="https://qdrant.tech/" target="_blank">
-<img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" width="40" height="40" alt="Qdrant"/>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 </a>
 
 </p>
 
-### 🤖 Agentic AI Stack
+### 🔍 Data & Vector Systems
 
-<p align="center">
+<p align="left">
 
-<img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qdrant-Vector%20Database-FF4F64?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ClickHouse-Analytics%20Database-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
 
-<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLM%20Tool%20Calling-0F766E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLM%20Evaluation-EA580C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%20Observability-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-Data%20Querying-4479A1?style=for-the-badge" />
 
 </p>
 
