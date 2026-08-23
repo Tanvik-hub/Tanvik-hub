@@ -185,8 +185,6 @@ I focus on making AI systems **measurable and debuggable**, not just functional.
 
 ---
 
-## 📌 Featured Projects
-
 ### 🤖 Agentic AI Systems
 
 Building AI agents capable of:
